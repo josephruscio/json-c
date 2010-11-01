@@ -1,0 +1,12 @@
+.deps
+.libs
+Makefile
+*.lo
+*.o
+config.h
+config.log
+config.status
+json.pc
+libjson.la
+libtool
+stamp-h1
